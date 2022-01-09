@@ -5,8 +5,8 @@ ___
 - 🌱 I’m currently learning AI
 - 💬 Ask me about Java (OOP)
 - 📫 How to reach me: 
-  - [Telegram](https://t.me/AhmedKamel188)
-  - [Facebook](https://www.facebook.com/AhmedKamel11188)
+  - [Telegram](https://t.me/AhmedUKamel)
+  - [Facebook](https://www.facebook.com/AhmedUKamel)
 
 <!--
 **AhmedKamel188/AhmedKamel188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

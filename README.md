@@ -1,4 +1,4 @@
-![](https://c1.wallpaperflare.com/preview/655/355/690/programming-keyboard-computer-environment-syntax-program.jpg)
+![](https://c4.wallpaperflare.com/wallpaper/545/301/145/github-code-logo-open-source-versioning-wallpaper-preview.jpg)
 ___
 ### Hi there 👋
 - 🔭 I’m currently studying on FCAI

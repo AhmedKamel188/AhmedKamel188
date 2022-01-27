@@ -1,4 +1,4 @@
-![](https://c4.wallpaperflare.com/wallpaper/545/301/145/github-code-logo-open-source-versioning-wallpaper-preview.jpg)
+<!-- ![](https://c4.wallpaperflare.com/wallpaper/545/301/145/github-code-logo-open-source-versioning-wallpaper-preview.jpg) -->
 ___
 ### Hi there 👋
 - 🔭 I’m currently studying on FCAI

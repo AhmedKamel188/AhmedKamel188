@@ -1,4 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](./bg.jpg)
+![Background Image](./bg.jpg)
 <h2 align='center'>Ahmed Kamel @ AhmedUKamel</h2>
 <p align='center'><b>Computer Science Student</b></p> 
 

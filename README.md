@@ -1,42 +1,47 @@
-![Background Image](./bg.jpg)
+<img alt="Background" width="100%" src="./bg.jpg">
 <h2 align='center'>Ahmed Kamel @ AhmedUKamel</h2>
-<p align='center'><b>Computer Science Student</b></p> 
+<p align='center'><b>Computer Science Student</b></p>
 
-<h2>👋 Hello!</h2>
+___
 
-<hr>
+## 💻 I'm Currently 
+`Studying Computer Science on Faculty of Computers and Artificial Intelligence, Beni Suef University - Egypt`
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AhmedUKamel.AhmedUKamel)](https://github.com/AhmedUKamel) [![GitHub followers](https://img.shields.io/github/followers/AhmedUKamel.svg?style=social&label=Follow)](https://github.com/AhmedUKamel?tab=followers)
+`Learning Artificial Intelligence with INSTANT Software Solutions`
 
-<h2>💻 I'm Currently Studying on</h2>
+___
 
-- Faculty od Computers and Artificial Intelligence, Beni Suef University - Egypt
+## ​📉​ Stats
+<img  align="center" alt="General stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=AhmedUKamel&show_icons=true">
 
+<br />
+<br />
 
-__Check out my GitHub repository:__
+<img  align="center" alt="Languages stats" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedUKamel&layout=compact">
 
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<br />
+<br />
 
-<h2>👀 Stats</h2>
+<img  align="center" alt="Streak stats" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedUKamel">
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedUKamel" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
+<br />
+<br />
 
-<h2>📫 How to reach me:</h2>
+<img  align="center" alt="" width="60%" src="https://github-profile-trophy.vercel.app/?username=AhmedUKamel">
 
-<a href="https://www.linkedin.com/in/AhmedUKamel/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+___
+
+## 👀 Check out my GitHub repositories
+<a href="https://github.com/AhmedUKamel/INSTANT-AI"><img  align="center" alt="Streak stats" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=INSTANT-AI"></a>
+
+<a href="https://github.com/AhmedUKamel/Java"><img  align="center" alt="Streak stats" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java"></a>
+
+___
+
+## ✉️​​ How to reach me
+
+<a href="https://www.linkedin.com/in/AhmedUKamel/"><img  align="center" alt="Streak stats" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+___
+
+<img align="center" alt="Coding" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611740da2b37d27e4500370f2d1a4577e02de5fb815&rid=giphy.gif&ct=g">

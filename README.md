@@ -1,4 +1,4 @@
-<img alt="Background" width="100%" src="./bg.jpg">
+<img alt="Background" width="100%" src="wallpaper.jpg">
 <h2 align='center'>Ahmed Kamel @ AhmedUKamel</h2>
 <p align='center'><b>Computer Science Student</b></p>
 

@@ -12,17 +12,17 @@ ___
 ___
 
 ## ​📉​ Stats
-<img  align="center" alt="General stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=AhmedUKamel&show_icons=true">
+<img  align="center" alt="General stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AhmedUKamel&show_icons=true">
 
 <br />
 <br />
 
-<img  align="center" alt="Languages stats" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedUKamel&layout=compact">
+<img  align="center" alt="Languages stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedUKamel&layout=compact">
 
 <br />
 <br />
 
-<img  align="center" alt="Streak stats" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedUKamel">
+<img  align="center" alt="Streak stats" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedUKamel">
 
 <br />
 <br />
@@ -32,9 +32,9 @@ ___
 ___
 
 ## 👀 Check out my GitHub repositories
-<a href="https://github.com/AhmedUKamel/INSTANT-AI"><img  align="center" alt="Streak stats" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=INSTANT-AI"></a>
+<a href="https://github.com/AhmedUKamel/INSTANT-AI"><img  align="center" alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=INSTANT-AI"></a>
 
-<a href="https://github.com/AhmedUKamel/Java"><img  align="center" alt="Streak stats" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java"></a>
+<a href="https://github.com/AhmedUKamel/Java"><img  align="center" alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java"></a>
 
 ___
 

@@ -12,7 +12,7 @@
 <P><b>Bachelor's degree</b> in Computer Science</P>
 <p align='center'>Faculty of Computers and Artificial Intelligence, Beni Suef University - Egypt</p>
 
-<P><b>Diploma's degree</b> in Artificial Intelligence</P>
+<P><b>Diploma's degree</b> in Artificial Intelligence</P> 
 <p align='center'>INSTANT Software Solutions</p>
 
 ### STATS

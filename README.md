@@ -28,6 +28,6 @@
 ### Check out my GitHub repositories
 <p align='center'><a href="https://github.com/AhmedUKamel/INSTANT-AI"><img  align="center" alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=INSTANT-AI"></a></p>
 
-<p align='center'><a href="https://github.com/AhmedUKamel/Java"><img alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java"></a></p>
+<p align='center'><a href="https://github.com/AhmedUKamel/Java"><img alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java"></a></p> 
 
 <p align="center"><img alt="Coding" width="50%" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611740da2b37d27e4500370f2d1a4577e02de5fb815&rid=giphy.gif&ct=g"></p>

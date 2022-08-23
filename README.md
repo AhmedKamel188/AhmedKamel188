@@ -3,7 +3,7 @@
 
 <h1 align='center'>Ahmed Kamel @ AhmedUKamel</h1>
 
-<h4 align='center'>COMPUTER SCIENCE STUDENT</h4>
+<h4 align='center'>COMPUTER SCIENCE STUDENT</h4> 
 
 <p align='center'> <a href="https://www.linkedin.com/in/AhmedUKamel/" ><img  align="center" alt="LinkedIn" width="30" src="https://bit.ly/3c3m0Jw"></a> <a href="https://www.kaggle.com/ahmedukamel"><img  align="center" alt="Codeforcese" width="30" src="https://bit.ly/3A3yWXH"></a> <a href="https://codeforces.com/profile/AhmedUKamel"><img  align="center" alt="Kaggle" width="30" src="https://bit.ly/3QPQFIR"></a></p>
 

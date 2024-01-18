@@ -29,10 +29,11 @@ ___
 ![icon](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
 ### Reach me
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&color=gray&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmedukamel)
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=Youtube&logoColor=white&&labelColor=CD201F&color=gray&link=https%3A%2F%2Fwww.youtube.com%2F%40ahmedukamel)
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=telegram&logoColor=white&labelColor=0088CC&color=gray&link=https%3A%2F%2Ft.me%2Fahmedukamel)
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=duckduckgo&logoColor=white&labelColor=D94C25&color=gray&link=mailto%3Aahmedukamel%40duck.com)
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=Codeforces&logoColor=white&&labelColor=yellow&color=gray&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FAhmedUKamel)
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=leetcode&logoColor=white&&labelColor=orange&color=gray&link=https%3A%2F%2Fleetcode.com%2Fahmedukamel)
-![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=hackerrank&logoColor=white&labelColor=00B15D&color=gray&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fahmedukamel)![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=dev.to&logoColor=white&labelColor=black&color=gray&link=https%3A%2F%2Fdev.to.com%2F%40ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&color=gray)](https://www.linkedin.com/in/ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Youtube&logoColor=white&&labelColor=CD201F&color=gray)](https://www.youtube.com/@ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=telegram&logoColor=white&labelColor=0088CC&color=gray)](https://t.me/ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=duckduckgo&logoColor=white&labelColor=D94C25&color=gray)](mailto:ahmedukamel@duck.com)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Codeforces&logoColor=white&&labelColor=yellow&color=gray)](https://codeforces.com/profile/AhmedUKamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=leetcode&logoColor=white&&labelColor=orange&color=gray)](https://leetcode.com/ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=hackerrank&logoColor=white&labelColor=00B15D&color=gray)](https://www.hackerrank.com/profile/ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=dev.to&logoColor=white&labelColor=black&color=gray)](https://dev.to/ahmedukamel)

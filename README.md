@@ -1,34 +1,38 @@
+![banner](banner.png)
 
-<p align='center'><img src="cat.png" width="70px"></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=50&duration=3000&pause=9000&color=FFFFFF&center=true&random=false&width=1000&height=100&lines=Hello%2C+I'm+Ahmed+K.)](https://git.io/typing-svg)
+___
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=6000&pause=6000&color=FFFFFF&center=true&random=false&width=1000&height=100&lines=A+Java+Developer+with+a+solid+foundation+in+Spring+framework.)](https://git.io/typing-svg)
 
-<h1 align='center'>Ahmed Kamel @ AhmedUKamel</h1>
+### About me
 
-<h4 align='center'>COMPUTER SCIENCE STUDENT</h4> 
+- I’m currently working on **[Upwork](https://upwork.com/freelancers/~016d78af803de43e0a)**
 
-<p align='center'> <a href="https://www.linkedin.com/in/AhmedUKamel/" ><img  align="center" alt="LinkedIn" width="30" src="https://bit.ly/3c3m0Jw"></a> <a href="https://www.kaggle.com/ahmedukamel"><img  align="center" alt="Codeforcese" width="30" src="https://bit.ly/3A3yWXH"></a> <a href="https://codeforces.com/profile/AhmedUKamel"><img  align="center" alt="Kaggle" width="30" src="https://bit.ly/3QPQFIR"></a> <a href="https://leetcode.com/ahmedukamel/"><img  align="center" alt="Kaggle" width="30" src="https://bit.ly/3AYSH4i"></a></p>
+- Ask me about **Web Development, Java, Spring Boot, and Spring Framework**
 
-<img src="separator.png" width="100%" />  
+### Technologies
+![icon](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+![icon](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=spring-boot)
+![icon](https://img.shields.io/badge/-Thymeleafa-05122A?style=flat&logo=thymeleaf)
+![icon](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![icon](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)
+![icon](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![icon](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![icon](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
+![icon](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![icon](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![icon](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![icon](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![icon](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![icon](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![icon](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![icon](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-### EDUCATION
-<P><b>Bachelor's degree</b> in Computer Science</P>
-<p align='center'>Faculty of Computers and Artificial Intelligence, Beni Suef University - Egypt</p>
-
-<P><b>Diploma's degree</b> in Artificial Intelligence</P> 
-<p align='center'>INSTANT Software Solutions</p>
-
-### STATS
-
-<p align="center"><img alt="General stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AhmedUKamel&show_icons=true"></p>
-
-<p align="center"><img alt="Languages stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedUKamel&layout=compact"></p>
-
-<p align="center"><img alt="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedUKamel"></p>
-
-<p align="center"><img  align="center" alt="Streak stats" width="100%" src="https://github-profile-trophy.vercel.app/?username=AhmedUKamel"></p>
-
-### Check out my GitHub repositories
-<p align='center'><a href="https://github.com/AhmedUKamel/INSTANT-AI"><img  align="center" alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=INSTANT-AI"></a></p>
-
-<p align='center'><a href="https://github.com/AhmedUKamel/Java"><img alt="Streak stats" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedUKamel&repo=Java"></a></p> 
-
-<p align="center"><img alt="Coding" width="50%" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611740da2b37d27e4500370f2d1a4577e02de5fb815&rid=giphy.gif&ct=g"></p>
+### Reach me
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&color=gray&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmedukamel)
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=Youtube&logoColor=white&&labelColor=CD201F&color=gray&link=https%3A%2F%2Fwww.youtube.com%2F%40ahmedukamel)
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=telegram&logoColor=white&labelColor=0088CC&color=gray&link=https%3A%2F%2Ft.me%2Fahmedukamel)
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=duckduckgo&logoColor=white&labelColor=D94C25&color=gray&link=mailto%3Aahmedukamel%40duck.com)
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=Codeforces&logoColor=white&&labelColor=yellow&color=gray&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FAhmedUKamel)
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=leetcode&logoColor=white&&labelColor=orange&color=gray&link=https%3A%2F%2Fleetcode.com%2Fahmedukamel)
+![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=hackerrank&logoColor=white&labelColor=00B15D&color=gray&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fahmedukamel)![social-icon](https://img.shields.io/badge/%40ahmedukamel-white?style=flat-square&logo=dev.to&logoColor=white&labelColor=black&color=gray&link=https%3A%2F%2Fdev.to.com%2F%40ahmedukamel)

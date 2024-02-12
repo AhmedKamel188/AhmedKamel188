@@ -32,6 +32,7 @@ ___
 [![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&color=gray)](https://www.linkedin.com/in/ahmedukamel)
 [![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Youtube&logoColor=white&&labelColor=CD201F&color=gray)](https://www.youtube.com/@ahmedukamel)
 [![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=telegram&logoColor=white&labelColor=0088CC&color=gray)](https://t.me/ahmedukamel)
+[![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=postman&logoColor=white&labelColor=EF5B25&color=gray)](https://www.postman.com/ahmedukamel)
 [![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=duckduckgo&logoColor=white&labelColor=D94C25&color=gray)](mailto:ahmedukamel@duck.com)
 [![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Codeforces&logoColor=white&&labelColor=yellow&color=gray)](https://codeforces.com/profile/AhmedUKamel)
 [![social-icon](https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=leetcode&logoColor=white&&labelColor=orange&color=gray)](https://leetcode.com/ahmedukamel)
